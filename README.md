@@ -8,7 +8,7 @@ As of May, I have since decided to expand on the project to build a machine lear
 
 ## Database
 
-
+![ERD Diagram](Images/ERD Diagram.png)
 
 
 ## Data Exploration
